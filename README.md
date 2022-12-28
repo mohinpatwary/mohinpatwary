@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohin_uddin42" target="blank"><img src="https://img.shields.io/twitter/follow/mohin_uddin42?logo=twitter&style=for-the-badge" alt="mohin_uddin42" /></a> </p>
 
-- 🔭 I’m currently working on **Shopify APP Development**
+- 🔭 I’m currently working on **Shopify Theme & APP Development**
 
 - 🌱 I’m currently learning **Node.js, MongoDB, API Development (Backend Development))**
 
