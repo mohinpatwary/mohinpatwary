@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Shopify Theme & APP Development**
 
-- 🌱 I’m currently learning **Node.js, MongoDB, API Development (Backend Development))**
+- 🌱 I’m currently learning **Node.js, MongoDB, API Development (Backend Development)**
 
 - 👯 I’m looking to collaborate on **Shopify Theme Development**
 
